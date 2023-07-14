@@ -1,0 +1,134 @@
+{
+   "success":true,
+   "results":{
+      "total":3,
+      "hotels":[
+         {
+            "id":"907",
+            "rewards":{
+               "miles":10000
+            },
+            "lowestAveragePrice":{
+               "currency":"USD",
+               "symbol":"&#36;",
+               "amount":579.0
+            },
+            "hotelStaticContent":{
+               "hotelId":907,
+               "languageCode":"en",
+               "mainImage":{
+                  "category":"EXTERIOR",
+                  "url":"http://d2whcypojkzby.cloudfront.net/imageRepo/2/0/68/56/314/ExteriorCarsGone_S.jpg",
+                  "source":"VFML"
+               },
+               "name":"Omni Chicago Hotel & Suites Magnificent Mile",
+               "neighborhoodName":"Magnificent Mile",
+               "address":{
+                  "line1":"676 North Michigan Avenue",
+                  "line2":null,
+                  "city":"Chicago",
+                  "stateName":"Illinois",
+                  "stateCode":"IL",
+                  "countryName":"United States",
+                  "countryCode":"US",
+                  "zipCode":"60611",
+                  "latitude":41.89475,
+                  "longitude":"‑87.62465",
+                  "timeZoneId":"America/Chicago"
+               },
+               "stars":4,
+               "rating":9,
+               "numberOfReviews":685,
+               "brandCode":"1324",
+               "brandName":"Omni Hotels",
+               "propertyType":204,
+               "propertyTypeName":"Hotel"
+            }
+         },
+         {
+            "id":"908",
+            "rewards":{
+               "miles":8000
+            },
+            "lowestAveragePrice":{
+               "currency":"USD",
+               "symbol":"&#36;",
+               "amount":730.0
+            },
+            "hotelStaticContent":{
+               "hotelId":908,
+               "languageCode":"en",
+               "mainImage":{
+                  "category":"EXTERIOR",
+                  "url":"https://pix6.agoda.net/hotelImages/2285989/0/431f74f5c1cd9021a2c9f3fa3297365a.jpg",
+                  "source":"VFML"
+               },
+               "name":"Hyatt Regency Chicago",
+               "neighborhoodName":"Loop",
+               "address":{
+                  "line1":"151 E Upper Wacker Dr",
+                  "line2":null,
+                  "city":"Chicago",
+                  "stateName":"Illinois",
+                  "stateCode":"IL",
+                  "countryName":"United States",
+                  "countryCode":"US",
+                  "zipCode":"60611",
+                  "latitude":41.89475,
+                  "longitude":"‑87.62465",
+                  "timeZoneId":"America/Chicago"
+               },
+               "stars":4,
+               "rating":9,
+               "numberOfReviews":685,
+               "brandCode":"1324",
+               "brandName":"Hyatt Hotels",
+               "propertyType":204,
+               "propertyTypeName":"Hotel"
+            }
+         },
+         {
+            "id":"909",
+            "rewards":{
+               "miles":12000
+            },
+            "lowestAveragePrice":{
+               "currency":"USD",
+               "symbol":"&#36;",
+               "amount":649.0
+            },
+            "hotelStaticContent":{
+               "hotelId":909,
+               "languageCode":"en",
+               "mainImage":{
+                  "category":"EXTERIOR",
+                  "url":"https://pix6.agoda.net/hotelImages/7194443/0/24c092940f6a11f4f650ad836cb7c4a8.jpg",
+                  "source":"VFML"
+               },
+               "name":"Sofitel Chicago Magnificent Mile",
+               "neighborhoodName":"Magnificent Mile",
+               "address":{
+                  "line1":"20 East Chestnut Street",
+                  "line2":null,
+                  "city":"Chicago",
+                  "stateName":"Illinois",
+                  "stateCode":"IL",
+                  "countryName":"United States",
+                  "countryCode":"US",
+                  "zipCode":"60611",
+                  "latitude":41.89475,
+                  "longitude":"‑87.62465",
+                  "timeZoneId":"America/Chicago"
+               },
+               "stars":5,
+               "rating":18,
+               "numberOfReviews":685,
+               "brandCode":"1324",
+               "brandName":"Sofitel Hotels",
+               "propertyType":204,
+               "propertyTypeName":"Hotel"
+            }
+         }
+      ]
+   }
+}

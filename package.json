@@ -1,0 +1,46 @@
+{
+  "name": "rti-react-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "name": "Rocket Travel React FE Seed",
+    "type": "git",
+    "url": "git://github.com/rocketmiles/react-frontend-homework.git"
+  },
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "jest",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "setupFilesAfterEnv": [
+      "<rootDir>/test/setupTests.js"
+    ],
+    "moduleNameMapper": {
+      "^.+\\.(css|less|scss)$": "<rootDir>/test/styleMock.js"
+    }
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/plugin-proposal-class-properties": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-jest": "^24.5.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.11.0",
+    "jest": "^24.5.0",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.28.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "resolutions": {
+    "node-forge": "0.10.0"
+  }
+}

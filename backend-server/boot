@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker build -t rocketmiles/react-backend-api .
+docker run -p 8080:8080 rocketmiles/react-backend-api
